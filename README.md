@@ -18,6 +18,6 @@
 
 * ~~Avgifter hanteras via kommunens ekonomiavdelning~~
 
-* Systemet skall ha webinterface för det är modernt och bra
+* ~~Systemet skall ha webinterface för det är modernt och bra~~
 
 * Kunden vill ha hjälp med att ta fram en specifikation för ett sådant system samt utveckling och drift.
