@@ -1,7 +1,5 @@
 # Bakgrundsinformation om bibliotekssystemet
 
-* Systemet skall kunna hantera
-
 * utlåning av böcker via koppling till nuvarande scanners av böcker och kort
 
 * ~~påminnelser och förseningar~~
