@@ -12,7 +12,7 @@
 
 * ~~olika former av rapporter och statistik~~
 
-* Systemet skall även ha administrativa funktioner där man kan lägga hantera användare, böcker, etc.
+* ~~Systemet skall även ha administrativa funktioner där man kan lägga hantera användare, böcker, etc.~~
 
 * ~~Kunden önskar ett system som kan hantera flera filialer~~
 
