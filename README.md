@@ -4,7 +4,7 @@
 
 * utlåning av böcker via koppling till nuvarande scanners av böcker och kort
 
-* påminnelser och förseningar
+* ~~påminnelser och förseningar~~
 
 * ~~försvunna böcker~~
 
