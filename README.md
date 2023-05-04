@@ -1,4 +1,4 @@
-# Ghost-Rangers
+# Bakgrundsinformation om bibliotekssystemet
 
 * Systemet skall kunna hantera
 
@@ -6,9 +6,9 @@
 
 * påminnelser och förseningar
 
-~~försvunna böcker~~
+* ~~försvunna böcker~~
 
-~~sökning av böcker~~
+* ~~sökning av böcker~~
 
 * hantering av bibliotekskort
 
@@ -18,7 +18,7 @@
 
 * Kunden önskar ett system som kan hantera flera filialer
 
-~~Avgifter hanteras via kommunens ekonomiavdelning~~
+* ~~Avgifter hanteras via kommunens ekonomiavdelning~~
 
 * Systemet skall ha webinterface för det är modernt och bra
 
