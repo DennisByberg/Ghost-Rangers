@@ -1,25 +1,25 @@
 # Ghost-Rangers
 
-Systemet skall kunna hantera
+* Systemet skall kunna hantera
 
-utlåning av böcker via koppling till nuvarande scanners av böcker och kort
+* utlåning av böcker via koppling till nuvarande scanners av böcker och kort
 
-påminnelser och förseningar
+* påminnelser och förseningar
 
-försvunna böcker~~
+~~försvunna böcker~~
 
-sökning av böcker
+~~sökning av böcker~~
 
-hantering av bibliotekskort
+* hantering av bibliotekskort
 
-olika former av rapporter och statistik
+* olika former av rapporter och statistik
 
-Systemet skall även ha administrativa funktioner där man kan lägga hantera användare, böcker, etc.
+* Systemet skall även ha administrativa funktioner där man kan lägga hantera användare, böcker, etc.
 
-Kunden önskar ett system som kan hantera flera filialer
+* Kunden önskar ett system som kan hantera flera filialer
 
-Avgifter hanteras via kommunens ekonomiavdelning
+~~Avgifter hanteras via kommunens ekonomiavdelning~~
 
-Systemet skall ha webinterface för det är modernt och bra
+* Systemet skall ha webinterface för det är modernt och bra
 
-Kunden vill ha hjälp med att ta fram en specifikation för ett sådant system samt utveckling och drift.
+* Kunden vill ha hjälp med att ta fram en specifikation för ett sådant system samt utveckling och drift.
