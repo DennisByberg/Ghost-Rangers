@@ -8,7 +8,7 @@
 
 * ~~sökning av böcker~~
 
-* hantering av bibliotekskort~~
+* ~~hantering av bibliotekskort~~
 
 * olika former av rapporter och statistik
 
