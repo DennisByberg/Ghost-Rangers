@@ -10,7 +10,7 @@
 
 * ~~hantering av bibliotekskort~~
 
-* ~~olika former av rapporter och statistik
+* ~~olika former av rapporter och statistik~~
 
 * Systemet skall även ha administrativa funktioner där man kan lägga hantera användare, böcker, etc.
 
